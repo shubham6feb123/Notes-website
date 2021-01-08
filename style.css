@@ -1,0 +1,60 @@
+.navbar-brand{
+    font-family: 'Big Shoulders Stencil Text', cursive;
+}
+
+.nav-links{
+    font-family: 'Kufam', cursive;
+}
+
+/* .card{
+    position: relative;
+    left: 35%;
+    
+} */
+
+.form-control{
+    resize: none;
+}
+
+body{
+    background-image: linear-gradient(to bottom right,#f12711,#f5af19);
+    text-align: center;
+}
+
+.yournotes{
+    text-align: center;
+    font-family: 'Big Shoulders Stencil Text', cursive;
+}
+
+.line {
+	border-top: 4px double #72fd00;
+	text-align: center;
+}
+.line:after {
+	content: '\002665';
+	display: inline-block;
+	position: relative;
+	top: -15px;
+	padding: 0 10px;
+	background: white;
+	color: #ff0000;
+	font-size: 18px;
+}
+
+/* your notes section */
+.card{
+    margin: 5px 25px;
+}
+
+#searchTxt , #addTxt ,#notes{
+    font-family: 'Redressed', cursive;
+
+}
+
+/* font-families
+font-family: 'Montserrat', sans-serif;
+
+font-family: 'Redressed', cursive;
+
+font-family: 'Ubuntu Mono', monospace;
+ */
